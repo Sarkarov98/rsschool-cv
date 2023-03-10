@@ -4,7 +4,7 @@
 ## Contacts
 
 - Телефон: +998 97 973 10 17
-- Email: Sarkarovabobakir98@gmail.com   
+- Email: Sarkarovabobakir98@gmail.com       
 - Github: github.com/sarkarov98 
 
 
